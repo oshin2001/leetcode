@@ -11,8 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/oshin2001/leetcode/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/oshin2001/leetcode/tree/master/0306-additive-number) |
 ## Counting
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/oshin2001/leetcode/tree/master/0299-bulls-and-cows) |
+## Backtracking
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/oshin2001/leetcode/tree/master/0306-additive-number) |
 <!---LeetCode Topics End-->
