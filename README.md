@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/oshin2001/leetcode/tree/master/0127-word-ladder) |
 | [0299-bulls-and-cows](https://github.com/oshin2001/leetcode/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/oshin2001/leetcode/tree/master/0336-palindrome-pairs) |
 ## String
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/oshin2001/leetcode/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/oshin2001/leetcode/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/oshin2001/leetcode/tree/master/0306-additive-number) |
+| [0336-palindrome-pairs](https://github.com/oshin2001/leetcode/tree/master/0336-palindrome-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/oshin2001/leetcode/tree/master/0127-word-ladder) |
+## Array
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/oshin2001/leetcode/tree/master/0336-palindrome-pairs) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/oshin2001/leetcode/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
