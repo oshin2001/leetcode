@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/oshin2001/leetcode/tree/master/0224-basic-calculator) |
+| [0372-super-pow](https://github.com/oshin2001/leetcode/tree/master/0372-super-pow) |
 ## Stack
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/oshin2001/leetcode/tree/master/0336-palindrome-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/oshin2001/leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
