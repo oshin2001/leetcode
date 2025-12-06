@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/oshin2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0336-palindrome-pairs](https://github.com/oshin2001/leetcode/tree/master/0336-palindrome-pairs) |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Trie
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/oshin2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/oshin2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
