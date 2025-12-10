@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0212-word-search-ii](https://github.com/oshin2001/leetcode/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/oshin2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0336-palindrome-pairs](https://github.com/oshin2001/leetcode/tree/master/0336-palindrome-pairs) |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
@@ -61,14 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0372-super-pow](https://github.com/oshin2001/leetcode/tree/master/0372-super-pow) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Sorting
 |  |
@@ -92,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
