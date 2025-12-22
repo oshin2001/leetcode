@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/oshin2001/leetcode/tree/master/0336-palindrome-pairs) |
 | [0519-random-flip-matrix](https://github.com/oshin2001/leetcode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/oshin2001/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/oshin2001/leetcode/tree/master/0336-palindrome-pairs) |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/oshin2001/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 ## Trie
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/oshin2001/leetcode/tree/master/0148-sort-list) |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/oshin2001/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0519-random-flip-matrix](https://github.com/oshin2001/leetcode/tree/master/0519-random-flip-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
