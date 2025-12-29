@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/oshin2001/leetcode/tree/master/0413-arithmetic-slices) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/oshin2001/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oshin2001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -188,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oshin2001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Line Sweep
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
 <!---LeetCode Topics End-->
