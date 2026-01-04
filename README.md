@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/oshin2001/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/oshin2001/leetcode/tree/master/0788-rotated-digits) |
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/oshin2001/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1947-maximum-compatibility-score-sum](https://github.com/oshin2001/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Matrix
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/oshin2001/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/oshin2001/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/oshin2001/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -235,10 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/oshin2001/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/oshin2001/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/oshin2001/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/oshin2001/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Memoization
 |  |
 | ------- |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/oshin2001/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
+## Topological Sort
+|  |
+| ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/oshin2001/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 <!---LeetCode Topics End-->
