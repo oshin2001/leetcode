@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/oshin2001/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0986-interval-list-intersections](https://github.com/oshin2001/leetcode/tree/master/0986-interval-list-intersections) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/oshin2001/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oshin2001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/oshin2001/leetcode/tree/master/0148-sort-list) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/oshin2001/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0986-interval-list-intersections](https://github.com/oshin2001/leetcode/tree/master/0986-interval-list-intersections) |
 ## Merge Sort
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
+| [0986-interval-list-intersections](https://github.com/oshin2001/leetcode/tree/master/0986-interval-list-intersections) |
 ## Ordered Set
 |  |
 | ------- |
