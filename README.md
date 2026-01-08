@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/oshin2001/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/oshin2001/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0748-shortest-completing-word](https://github.com/oshin2001/leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/oshin2001/leetcode/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/oshin2001/leetcode/tree/master/0336-palindrome-pairs) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/oshin2001/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/oshin2001/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0748-shortest-completing-word](https://github.com/oshin2001/leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/oshin2001/leetcode/tree/master/0771-jewels-and-stones) |
 | [0899-orderly-queue](https://github.com/oshin2001/leetcode/tree/master/0899-orderly-queue) |
 ## Counting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/oshin2001/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/oshin2001/leetcode/tree/master/0661-image-smoother) |
+| [0748-shortest-completing-word](https://github.com/oshin2001/leetcode/tree/master/0748-shortest-completing-word) |
 | [0773-sliding-puzzle](https://github.com/oshin2001/leetcode/tree/master/0773-sliding-puzzle) |
 | [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
