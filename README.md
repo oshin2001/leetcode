@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/oshin2001/leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/oshin2001/leetcode/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
+| [1138-alphabet-board-path](https://github.com/oshin2001/leetcode/tree/master/1138-alphabet-board-path) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/oshin2001/leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/oshin2001/leetcode/tree/master/0771-jewels-and-stones) |
 | [0899-orderly-queue](https://github.com/oshin2001/leetcode/tree/master/0899-orderly-queue) |
+| [1138-alphabet-board-path](https://github.com/oshin2001/leetcode/tree/master/1138-alphabet-board-path) |
 ## Counting
 |  |
 | ------- |
