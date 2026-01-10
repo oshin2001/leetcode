@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/oshin2001/leetcode/tree/master/1089-duplicate-zeros) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/oshin2001/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+| [1696-jump-game-vi](https://github.com/oshin2001/leetcode/tree/master/1696-jump-game-vi) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oshin2001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1947-maximum-compatibility-score-sum](https://github.com/oshin2001/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Trie
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/oshin2001/leetcode/tree/master/0788-rotated-digits) |
 | [1092-shortest-common-supersequence](https://github.com/oshin2001/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+| [1696-jump-game-vi](https://github.com/oshin2001/leetcode/tree/master/1696-jump-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/oshin2001/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1947-maximum-compatibility-score-sum](https://github.com/oshin2001/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Matrix
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/oshin2001/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/oshin2001/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1696-jump-game-vi](https://github.com/oshin2001/leetcode/tree/master/1696-jump-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/oshin2001/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Bit Manipulation
 |  |
@@ -272,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/oshin2001/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+## Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/oshin2001/leetcode/tree/master/1696-jump-game-vi) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/oshin2001/leetcode/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
