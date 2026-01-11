@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/oshin2001/leetcode/tree/master/0306-additive-number) |
 | [0773-sliding-puzzle](https://github.com/oshin2001/leetcode/tree/master/0773-sliding-puzzle) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/oshin2001/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1774-closest-dessert-cost](https://github.com/oshin2001/leetcode/tree/master/1774-closest-dessert-cost) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oshin2001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1947-maximum-compatibility-score-sum](https://github.com/oshin2001/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Math
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1696-jump-game-vi](https://github.com/oshin2001/leetcode/tree/master/1696-jump-game-vi) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/oshin2001/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1774-closest-dessert-cost](https://github.com/oshin2001/leetcode/tree/master/1774-closest-dessert-cost) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oshin2001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1947-maximum-compatibility-score-sum](https://github.com/oshin2001/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Trie
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1696-jump-game-vi](https://github.com/oshin2001/leetcode/tree/master/1696-jump-game-vi) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/oshin2001/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1774-closest-dessert-cost](https://github.com/oshin2001/leetcode/tree/master/1774-closest-dessert-cost) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/oshin2001/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1947-maximum-compatibility-score-sum](https://github.com/oshin2001/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Matrix
