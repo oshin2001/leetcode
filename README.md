@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/oshin2001/leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/oshin2001/leetcode/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
+| [0904-fruit-into-baskets](https://github.com/oshin2001/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1138-alphabet-board-path](https://github.com/oshin2001/leetcode/tree/master/1138-alphabet-board-path) |
 ## String
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/oshin2001/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0904-fruit-into-baskets](https://github.com/oshin2001/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/oshin2001/leetcode/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/oshin2001/leetcode/tree/master/1089-duplicate-zeros) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/oshin2001/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/oshin2001/leetcode/tree/master/0413-arithmetic-slices) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0904-fruit-into-baskets](https://github.com/oshin2001/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
