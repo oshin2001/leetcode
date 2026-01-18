@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/oshin2001/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0748-shortest-completing-word](https://github.com/oshin2001/leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/oshin2001/leetcode/tree/master/0771-jewels-and-stones) |
+| [0823-binary-trees-with-factors](https://github.com/oshin2001/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/oshin2001/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1138-alphabet-board-path](https://github.com/oshin2001/leetcode/tree/master/1138-alphabet-board-path) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/oshin2001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0748-shortest-completing-word](https://github.com/oshin2001/leetcode/tree/master/0748-shortest-completing-word) |
 | [0773-sliding-puzzle](https://github.com/oshin2001/leetcode/tree/master/0773-sliding-puzzle) |
+| [0823-binary-trees-with-factors](https://github.com/oshin2001/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/oshin2001/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/oshin2001/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0823-binary-trees-with-factors](https://github.com/oshin2001/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
 | [0899-orderly-queue](https://github.com/oshin2001/leetcode/tree/master/0899-orderly-queue) |
 ## Binary Search
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/oshin2001/leetcode/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/oshin2001/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/oshin2001/leetcode/tree/master/0788-rotated-digits) |
+| [0823-binary-trees-with-factors](https://github.com/oshin2001/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [1012-numbers-with-repeated-digits](https://github.com/oshin2001/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1092-shortest-common-supersequence](https://github.com/oshin2001/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
