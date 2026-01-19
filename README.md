@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/oshin2001/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1138-alphabet-board-path](https://github.com/oshin2001/leetcode/tree/master/1138-alphabet-board-path) |
+| [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## String
 |  |
 | ------- |
@@ -142,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/oshin2001/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
+| [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
+| [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/oshin2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
+| [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/oshin2001/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/oshin2001/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1696-jump-game-vi](https://github.com/oshin2001/leetcode/tree/master/1696-jump-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/oshin2001/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -280,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
+| [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Geometry
 |  |
 | ------- |
@@ -323,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/oshin2001/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Union-Find
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 <!---LeetCode Topics End-->
