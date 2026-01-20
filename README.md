@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/oshin2001/leetcode/tree/master/0899-orderly-queue) |
 | [1092-shortest-common-supersequence](https://github.com/oshin2001/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1138-alphabet-board-path](https://github.com/oshin2001/leetcode/tree/master/1138-alphabet-board-path) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/oshin2001/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Counting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/oshin2001/leetcode/tree/master/0224-basic-calculator) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/oshin2001/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/oshin2001/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/oshin2001/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Topological Sort
 |  |
 | ------- |
