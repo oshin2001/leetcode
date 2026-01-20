@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0212-word-search-ii](https://github.com/oshin2001/leetcode/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/oshin2001/leetcode/tree/master/0306-additive-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/oshin2001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0773-sliding-puzzle](https://github.com/oshin2001/leetcode/tree/master/0773-sliding-puzzle) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/oshin2001/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1774-closest-dessert-cost](https://github.com/oshin2001/leetcode/tree/master/1774-closest-dessert-cost) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/oshin2001/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/oshin2001/leetcode/tree/master/0661-image-smoother) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/oshin2001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/oshin2001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0748-shortest-completing-word](https://github.com/oshin2001/leetcode/tree/master/0748-shortest-completing-word) |
 | [0773-sliding-puzzle](https://github.com/oshin2001/leetcode/tree/master/0773-sliding-puzzle) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/oshin2001/leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/oshin2001/leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/oshin2001/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/oshin2001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/oshin2001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0773-sliding-puzzle](https://github.com/oshin2001/leetcode/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/oshin2001/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/oshin2001/leetcode/tree/master/0393-utf-8-validation) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/oshin2001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/oshin2001/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oshin2001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1947-maximum-compatibility-score-sum](https://github.com/oshin2001/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/oshin2001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0773-sliding-puzzle](https://github.com/oshin2001/leetcode/tree/master/0773-sliding-puzzle) |
 ## Simulation
 |  |
@@ -334,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
+## Bitmask DP
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/oshin2001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
