@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/oshin2001/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/oshin2001/leetcode/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/oshin2001/leetcode/tree/master/1089-duplicate-zeros) |
+| [1157-online-majority-element-in-subarray](https://github.com/oshin2001/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/oshin2001/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1504-count-submatrices-with-all-ones](https://github.com/oshin2001/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1696-jump-game-vi](https://github.com/oshin2001/leetcode/tree/master/1696-jump-game-vi) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [1157-online-majority-element-in-subarray](https://github.com/oshin2001/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/oshin2001/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Segment Tree
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/oshin2001/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0850-rectangle-area-ii](https://github.com/oshin2001/leetcode/tree/master/0850-rectangle-area-ii) |
+| [1157-online-majority-element-in-subarray](https://github.com/oshin2001/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Sorting
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/oshin2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
+| [1157-online-majority-element-in-subarray](https://github.com/oshin2001/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Dynamic Programming
 |  |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/oshin2001/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [1157-online-majority-element-in-subarray](https://github.com/oshin2001/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Linked List
 |  |
