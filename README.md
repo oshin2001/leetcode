@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/oshin2001/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/oshin2001/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/oshin2001/leetcode/tree/master/0997-find-the-town-judge) |
 | [1138-alphabet-board-path](https://github.com/oshin2001/leetcode/tree/master/1138-alphabet-board-path) |
 | [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## String
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/oshin2001/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/oshin2001/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/oshin2001/leetcode/tree/master/0986-interval-list-intersections) |
+| [0997-find-the-town-judge](https://github.com/oshin2001/leetcode/tree/master/0997-find-the-town-judge) |
 | [1089-duplicate-zeros](https://github.com/oshin2001/leetcode/tree/master/1089-duplicate-zeros) |
 | [1157-online-majority-element-in-subarray](https://github.com/oshin2001/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1395-count-number-of-teams](https://github.com/oshin2001/leetcode/tree/master/1395-count-number-of-teams) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/oshin2001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/oshin2001/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
