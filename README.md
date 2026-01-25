@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/oshin2001/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/oshin2001/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/oshin2001/leetcode/tree/master/0912-sort-an-array) |
 | [0986-interval-list-intersections](https://github.com/oshin2001/leetcode/tree/master/0986-interval-list-intersections) |
 | [0997-find-the-town-judge](https://github.com/oshin2001/leetcode/tree/master/0997-find-the-town-judge) |
 | [1089-duplicate-zeros](https://github.com/oshin2001/leetcode/tree/master/1089-duplicate-zeros) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/oshin2001/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0372-super-pow](https://github.com/oshin2001/leetcode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/oshin2001/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0912-sort-an-array](https://github.com/oshin2001/leetcode/tree/master/0912-sort-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/oshin2001/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0888-fair-candy-swap](https://github.com/oshin2001/leetcode/tree/master/0888-fair-candy-swap) |
 | [0899-orderly-queue](https://github.com/oshin2001/leetcode/tree/master/0899-orderly-queue) |
+| [0912-sort-an-array](https://github.com/oshin2001/leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/oshin2001/leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/oshin2001/leetcode/tree/master/0912-sort-an-array) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/oshin2001/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/oshin2001/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/oshin2001/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/oshin2001/leetcode/tree/master/0912-sort-an-array) |
 | [1696-jump-game-vi](https://github.com/oshin2001/leetcode/tree/master/1696-jump-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/oshin2001/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2424-longest-uploaded-prefix](https://github.com/oshin2001/leetcode/tree/master/2424-longest-uploaded-prefix) |
@@ -367,4 +372,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/oshin2001/leetcode/tree/master/0997-find-the-town-judge) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/oshin2001/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/oshin2001/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/oshin2001/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
