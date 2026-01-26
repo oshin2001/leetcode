@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/oshin2001/leetcode/tree/master/0224-basic-calculator) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/oshin2001/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/oshin2001/leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/oshin2001/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Breadth-First Search
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1774-closest-dessert-cost](https://github.com/oshin2001/leetcode/tree/master/1774-closest-dessert-cost) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oshin2001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1947-maximum-compatibility-score-sum](https://github.com/oshin2001/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/oshin2001/leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Trie
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/oshin2001/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oshin2001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1947-maximum-compatibility-score-sum](https://github.com/oshin2001/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/oshin2001/leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Bitmask
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oshin2001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/oshin2001/leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Line Sweep
 |  |
 | ------- |
