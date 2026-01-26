@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/oshin2001/leetcode/tree/master/0899-orderly-queue) |
 | [1012-numbers-with-repeated-digits](https://github.com/oshin2001/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oshin2001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/oshin2001/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/oshin2001/leetcode/tree/master/0224-basic-calculator) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/oshin2001/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/oshin2001/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
