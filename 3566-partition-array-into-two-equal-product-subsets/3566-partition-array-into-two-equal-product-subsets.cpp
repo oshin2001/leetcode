@@ -7,10 +7,8 @@ public:
         if (prod == target) return true;
         if (i == nums.size()) return false;
         
-        // Include nums[i]
         if (solve(i + 1, prod * nums[i], target, nums)) return true;
 
-        // Exclude nums[i]
         if (solve(i + 1, prod, target, nums)) return true;
 
         return false;
