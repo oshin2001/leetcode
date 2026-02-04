@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/oshin2001/leetcode/tree/master/0306-additive-number) |
 | [0336-palindrome-pairs](https://github.com/oshin2001/leetcode/tree/master/0336-palindrome-pairs) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/oshin2001/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0516-longest-palindromic-subsequence](https://github.com/oshin2001/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/oshin2001/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/oshin2001/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/oshin2001/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/oshin2001/leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/oshin2001/leetcode/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/oshin2001/leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/oshin2001/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/oshin2001/leetcode/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/oshin2001/leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/oshin2001/leetcode/tree/master/0583-delete-operation-for-two-strings) |
