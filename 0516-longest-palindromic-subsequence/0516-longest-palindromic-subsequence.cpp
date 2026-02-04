@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int longestPalindromeSubseq(string s) {
+        string text1 = s;
+        string text2 = s;
+        reverse(text2.begin() , text2.end());
+        int n1 = text1.size();
+        int n2 = text2.size();
+        vector<int>prev(n2+1,0);
+        vector<int>curr(n2+1,0);
+        
+        for(int i=1;i<=n1;i++){
+            for(int j=1;j<=n2;j++){
+                if(text1[i-1]==text2[j-1])  curr[j] = 1+prev[j-1];
+        else{
+             curr[j]=max(prev[j],curr[j-1]);
+        }   
+            }
+        prev = curr;
+        }
+        return prev[n2];
+    }
+};
